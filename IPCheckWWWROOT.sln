@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPCheckWWWROOT", "IPCheckWWWROOT\IPCheckWWWROOT.csproj", "{7C5B0143-2FDD-4E06-BD87-4D46423E499C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lythen.BLL", "Lythen.BLL\Lythen.BLL.csproj", "{E95CA09C-40EF-4537-97BC-A9DB62374F2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lythen.DAL", "Lythen.DAL\Lythen.DAL.csproj", "{CD1FA2D5-C488-44E8-8DE1-A1E9AC72978C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lythen.Common", "Lythen.Common\Lythen.Common.csproj", "{FB540E55-30E5-4566-9EC8-18A2BA73C830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lythen.Model", "Lythen.Model\Lythen.Model.csproj", "{F83CDAFC-683F-45BC-AEA0-81174AC27FEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lythen.IBLL", "Lythen.IBLL\Lythen.IBLL.csproj", "{37CEE0B4-A885-44F4-BB26-F4D0681BB579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lythen.IDAL", "Lythen.IDAL\Lythen.IDAL.csproj", "{426F4858-2C43-4BC4-AC8A-525AF9CFDBD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C5B0143-2FDD-4E06-BD87-4D46423E499C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C5B0143-2FDD-4E06-BD87-4D46423E499C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C5B0143-2FDD-4E06-BD87-4D46423E499C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C5B0143-2FDD-4E06-BD87-4D46423E499C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E95CA09C-40EF-4537-97BC-A9DB62374F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E95CA09C-40EF-4537-97BC-A9DB62374F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E95CA09C-40EF-4537-97BC-A9DB62374F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E95CA09C-40EF-4537-97BC-A9DB62374F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD1FA2D5-C488-44E8-8DE1-A1E9AC72978C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD1FA2D5-C488-44E8-8DE1-A1E9AC72978C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD1FA2D5-C488-44E8-8DE1-A1E9AC72978C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD1FA2D5-C488-44E8-8DE1-A1E9AC72978C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB540E55-30E5-4566-9EC8-18A2BA73C830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB540E55-30E5-4566-9EC8-18A2BA73C830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB540E55-30E5-4566-9EC8-18A2BA73C830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB540E55-30E5-4566-9EC8-18A2BA73C830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F83CDAFC-683F-45BC-AEA0-81174AC27FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83CDAFC-683F-45BC-AEA0-81174AC27FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83CDAFC-683F-45BC-AEA0-81174AC27FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83CDAFC-683F-45BC-AEA0-81174AC27FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37CEE0B4-A885-44F4-BB26-F4D0681BB579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37CEE0B4-A885-44F4-BB26-F4D0681BB579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37CEE0B4-A885-44F4-BB26-F4D0681BB579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37CEE0B4-A885-44F4-BB26-F4D0681BB579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{426F4858-2C43-4BC4-AC8A-525AF9CFDBD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426F4858-2C43-4BC4-AC8A-525AF9CFDBD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426F4858-2C43-4BC4-AC8A-525AF9CFDBD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426F4858-2C43-4BC4-AC8A-525AF9CFDBD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
